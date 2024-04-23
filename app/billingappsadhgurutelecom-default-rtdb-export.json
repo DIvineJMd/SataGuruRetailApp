@@ -1,0 +1,71 @@
+{
+  "Inventory": {
+    "Accessories": {
+      "Chargers": {
+        "Apple": {
+          "Lightning Cable": {
+            "units": 100
+          }
+        },
+        "Samsung": {
+          "USB-C Cable": {
+            "units": 75
+          }
+        }
+      },
+      "Headphones": {
+        "Apple": {
+          "AirPods Pro": {
+            "units": 60
+          }
+        },
+        "Samsung": {
+          "Galaxy Buds Pro": {
+            "units": 40
+          }
+        }
+      }
+    },
+    "Phones": {
+      "Apple": {
+        "iPhone 12": {
+          "specs": {
+            "color": "Black",
+            "storage": "64GB"
+          },
+          "units": 30
+        },
+        "iPhone 13": {
+          "specs": {
+            "color": "Blue",
+            "storage": "128GB"
+          },
+          "units": 45
+        }
+      },
+      "Samsung": {
+        "Galaxy S21": {
+          "specs": {
+            "color": "Silver",
+            "storage": "256GB"
+          },
+          "units": 21
+        }
+      }
+    },
+    "Sound": {
+      "Speakers": {
+        "JBL": {
+          "Flip 5": {
+            "units": 10
+          }
+        },
+        "Sony": {
+          "SRS-XB23": {
+            "units": 15
+          }
+        }
+      }
+    }
+  }
+}

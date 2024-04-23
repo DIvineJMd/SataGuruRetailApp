@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "364913578733",
+    "firebase_url": "https://billingappsadhgurutelecom-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "billingappsadhgurutelecom",
+    "storage_bucket": "billingappsadhgurutelecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364913578733:android:6e92eece6280236519b2e4",
+        "android_client_info": {
+          "package_name": "com.example.billingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364913578733-a6svr464dse9kaqg01h3213671tovtg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.billingapp",
+            "certificate_hash": "085e22a5fd73fa8599d382ecb03e8fb45190a51a"
+          }
+        },
+        {
+          "client_id": "364913578733-g93t90igcsm50q4cpne6rl67oogsgd4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WMr2NKlc6cmsNYqYhA--WA41z-vJ8DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364913578733-g93t90igcsm50q4cpne6rl67oogsgd4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364913578733:android:0b249ff96eaac9d619b2e4",
+        "android_client_info": {
+          "package_name": "com.example.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364913578733-b9hv39u0d06ua9sk84iqb2mmpe7d9qta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learn",
+            "certificate_hash": "600262373ebca006fa961c9bc956b712a995511a"
+          }
+        },
+        {
+          "client_id": "364913578733-g93t90igcsm50q4cpne6rl67oogsgd4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WMr2NKlc6cmsNYqYhA--WA41z-vJ8DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364913578733-g93t90igcsm50q4cpne6rl67oogsgd4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
