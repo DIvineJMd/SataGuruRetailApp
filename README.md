@@ -24,4 +24,4 @@ This is a powerful billing application developed in Kotlin, leveraging Firebase 
 1. Clone the repository:
 
 ```bash
-[git clone https://github.com/your-username/billing-app.git](https://github.com/DIvineJMd/SataGuruRetailApp.git)
+[https://github.com/DIvineJMd/SataGuruRetailApp.git]
